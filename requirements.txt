@@ -13,7 +13,6 @@ decorator==5.1.1
 defusedxml==0.7.1
 entrypoints==0.4
 freetype-py==2.3.0
-gast==0.5.3
 grpcio==1.51.1
 h5py==3.8.0
 icc-rt==2020.0.133
