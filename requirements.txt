@@ -56,7 +56,6 @@ pickleshare==0.7.5
 pip==23.0
 prometheus-client==0.16.0
 prompt-toolkit==3.0.36
-protobuf==4.21.12
 Pygments==2.14.0
 pyparsing==3.0.9
 PyQt5==5.15.8
