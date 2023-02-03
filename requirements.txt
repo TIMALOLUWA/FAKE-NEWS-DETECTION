@@ -21,7 +21,6 @@ ipykernel==6.21.1
 ipython==8.9.0
 ipython_genutils==0.2.0
 jedi==0.18.2
-Jinja2==3.1.2
 jpeglib==0.11.4
 jsonschema==4.17.3
 jupyter-client==8.0.2
@@ -32,7 +31,6 @@ keras-preprocessing==1.1.2
 kiwisolver==1.4.4
 libsodium==2.3.3
 Markdown==3.4.1
-MarkupSafe==1.1.1
 matplotlib==3.6.3
 mistune==0.8.4
 mkl==2023.0.0
